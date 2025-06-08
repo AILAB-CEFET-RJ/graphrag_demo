@@ -1,0 +1,68 @@
+("entity"{{tuple_delimiter}}LARGE LANGUAGE MODELS{{tuple_delimiter}}large language model{{tuple_delimiter}}Large language models are AI models trained on vast corpora of text data to perform tasks like text generation, summarization, translation, and question answering)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DIFFERENTIAL PRIVACY{{tuple_delimiter}}differential privacy{{tuple_delimiter}}Differential privacy is a privacy-preserving technique used to ensure that individual data records cannot be inferred during model training)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}FEDERATED LEARNING{{tuple_delimiter}}federated learning{{tuple_delimiter}}Federated learning is a collaborative machine learning approach that allows models to be trained across multiple decentralized devices without sharing raw data)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}HEALTHCARE{{tuple_delimiter}}healthcare{{tuple_delimiter}}Healthcare is a field where large language models are applied to process patient data for tasks like diagnosis support while ensuring data privacy)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ADVERSARIAL TRAINING{{tuple_delimiter}}adversarial training{{tuple_delimiter}}Adversarial training is a technique used to improve model robustness by training on data perturbed with adversarial examples)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}SECURITY MEASURES{{tuple_delimiter}}security measures{{tuple_delimiter}}Security measures encompass methods used to protect machine learning models and data from malicious attacks and privacy leaks)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}OPEN-SOURCE TOOLS{{tuple_delimiter}}open-source tool{{tuple_delimiter}}Open-source tools are publicly available resources and libraries used to develop, fine-tune, and deploy large language models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DATASETS{{tuple_delimiter}}dataset{{tuple_delimiter}}Datasets are large collections of structured or unstructured text data used to train and fine-tune language models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}LEARNING RATE{{tuple_delimiter}}learning rate{{tuple_delimiter}}Learning rate is a hyperparameter that controls the step size at each iteration while training a machine learning model)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ADAGRAD{{tuple_delimiter}}AdaGrad{{tuple_delimiter}}AdaGrad is an optimization algorithm that adapts the learning rate for each parameter to improve training efficiency)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}RMSPROP{{tuple_delimiter}}RMSprop{{tuple_delimiter}}RMSprop is an adaptive learning rate optimization algorithm commonly used to train deep learning models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ADAPTER ARCHITECTURE{{tuple_delimiter}}adapter architecture{{tuple_delimiter}}Adapter architecture is a parameter-efficient fine-tuning method where small bottleneck layers are inserted within pre-trained models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}LORA{{tuple_delimiter}}LoRA{{tuple_delimiter}}LoRA (Low-Rank Adaptation) is a fine-tuning approach that injects trainable rank decomposition matrices into existing model weights to reduce parameter updates)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}APIS{{tuple_delimiter}}API{{tuple_delimiter}}APIs provide programmatic access to language models, allowing users to perform inference or fine-tuning via web services)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}MODEL SUPPORT{{tuple_delimiter}}model support{{tuple_delimiter}}Model support refers to the compatibility and integration of large language models within different platforms and frameworks)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}EVALUATION METRICS{{tuple_delimiter}}evaluation metrics{{tuple_delimiter}}Evaluation metrics are quantitative measures used to assess the performance of language models on various tasks)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DEPLOYMENT{{tuple_delimiter}}deployment{{tuple_delimiter}}Deployment refers to the process of making a trained language model available for use in production environments)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}PYTHON LIBRARIES{{tuple_delimiter}}Python library{{tuple_delimiter}}Python libraries are software packages like HuggingFace Transformers and PyTorch used to build, train, and fine-tune large language models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}HARDWARE ACCELERATORS{{tuple_delimiter}}hardware accelerators{{tuple_delimiter}}Hardware accelerators like GPUs and TPUs are used to speed up the training and inference processes of large language models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}HYPERPARAMETERS{{tuple_delimiter}}hyperparameters{{tuple_delimiter}}Hyperparameters are external configurations like batch size, learning rate, and epochs that guide the training of machine learning models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DATA PREPROCESSING{{tuple_delimiter}}data preprocessing{{tuple_delimiter}}Data preprocessing includes steps like tokenization, cleaning, and normalization performed on text data before training language models)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DATA IMBALANCE{{tuple_delimiter}}data imbalance{{tuple_delimiter}}Data imbalance refers to uneven distribution of classes or categories in training datasets, which can negatively affect model performance)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}GPU-BASED DEPLOYMENT{{tuple_delimiter}}GPU-based deployment{{tuple_delimiter}}GPU-based deployment uses graphics processing units to efficiently serve large language models in production settings)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DISTRIBUTED INFERENCE{{tuple_delimiter}}distributed inference{{tuple_delimiter}}Distributed inference is a technique where inference computations are split across multiple devices or nodes to reduce latency and manage large model sizes)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}LARGE LANGUAGE MODELS{{tuple_delimiter}}DATASETS{{tuple_delimiter}}Large language models are trained using large datasets that provide the diverse text data necessary for learning{{tuple_delimiter}}10)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}LARGE LANGUAGE MODELS{{tuple_delimiter}}DIFFERENTIAL PRIVACY{{tuple_delimiter}}Differential privacy is applied to large language models to protect sensitive information in training data{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}FEDERATED LEARNING{{tuple_delimiter}}HEALTHCARE{{tuple_delimiter}}Federated learning is used in healthcare to train models on patient data without compromising privacy{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}ADVERSARIAL TRAINING{{tuple_delimiter}}SECURITY MEASURES{{tuple_delimiter}}Adversarial training is a security measure used to enhance the robustness of models against attacks{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}ADAPTER ARCHITECTURE{{tuple_delimiter}}LORA{{tuple_delimiter}}LoRA is an alternative adapter architecture for efficient fine-tuning of large models{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}LEARNING RATE{{tuple_delimiter}}ADAGRAD{{tuple_delimiter}}AdaGrad adjusts the learning rate dynamically during model training{{tuple_delimiter}}7)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}LEARNING RATE{{tuple_delimiter}}RMSPROP{{tuple_delimiter}}RMSprop is another optimizer that modifies the learning rate to improve training stability{{tuple_delimiter}}7)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}GPU-BASED DEPLOYMENT{{tuple_delimiter}}HARDWARE ACCELERATORS{{tuple_delimiter}}GPU-based deployment relies on hardware accelerators like GPUs to run large models efficiently{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}DISTRIBUTED INFERENCE{{tuple_delimiter}}DEPLOYMENT{{tuple_delimiter}}Distributed inference is a deployment strategy used to handle the computational load of large models{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}DATA PREPROCESSING{{tuple_delimiter}}DATA IMBALANCE{{tuple_delimiter}}Data preprocessing techniques are used to address data imbalance before model training{{tuple_delimiter}}7)
+{{completion_delimiter}}

@@ -1,0 +1,84 @@
+("entity"{{tuple_delimiter}}FIAGRO{{tuple_delimiter}}fundo de investimento{{tuple_delimiter}}Fundo de Investimento nas Cadeias Produtivas do Agronegócio, voltado para aplicação de recursos em ativos do setor agropecuário, incluindo imóveis rurais, direitos creditórios, participações societárias e créditos de carbono)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}CLASSE DE COTAS{{tuple_delimiter}}classe de cotas{{tuple_delimiter}}Subdivisão do fundo que pode ter políticas de investimento e características próprias, como prazos, público-alvo e composição de carteira, podendo ser aberta ou fechada)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ADMINISTRADOR FIDUCIÁRIO{{tuple_delimiter}}administrador fiduciário{{tuple_delimiter}}Responsável pela administração do fundo, cálculo de cota, divulgação de informes, contratação de serviços essenciais e supervisão de operações do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}GESTOR{{tuple_delimiter}}gestor{{tuple_delimiter}}Responsável pela execução da política de investimento do fundo, seleção e acompanhamento dos ativos, diligência em relação a imóveis rurais e certificação de créditos de carbono)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}CONSULTORIA ESPECIALIZADA{{tuple_delimiter}}consultoria especializada{{tuple_delimiter}}Entidade contratada para apoiar o gestor na análise, seleção e avaliação de ativos, conforme política de investimento do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DIREITOS CREDITÓRIOS{{tuple_delimiter}}direitos creditórios{{tuple_delimiter}}Créditos originados no agronegócio ou ligados a imóveis rurais, podendo ser registrados, custodiados e usados como ativos do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}IMÓVEL RURAL{{tuple_delimiter}}imóvel rural{{tuple_delimiter}}Propriedade com CCIR ou RGI usada em atividades agropecuárias, podendo ser adquirida pelo fundo mediante avaliação e registro no CAR)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}CRÉDITOS DE CARBONO{{tuple_delimiter}}créditos de carbono{{tuple_delimiter}}Títulos que representam redução de gases de efeito estufa gerados por atividades do agronegócio; devem ter titularidade controlada e certificação independente)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}CBIO{{tuple_delimiter}}CBIO{{tuple_delimiter}}Créditos de descarbonização originados de biocombustíveis que podem ser adquiridos pelo fundo como ativo financeiro)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}POLÍTICA DE INVESTIMENTO{{tuple_delimiter}}política de investimento{{tuple_delimiter}}Documento que estabelece os ativos permitidos, limites por emissor, objetivos financeiros e critérios para aquisição de créditos de carbono, conforme diretrizes do regulamento)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}REGULAMENTO{{tuple_delimiter}}regulamento{{tuple_delimiter}}Documento normativo que rege o funcionamento do fundo, detalha a política de investimento, taxas, obrigações do administrador e condições de aplicação)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ASSEMBLEIA DE COTISTAS{{tuple_delimiter}}assembleia de cotistas{{tuple_delimiter}}Instância decisória do fundo composta pelos cotistas, responsável por deliberar sobre matérias importantes como eleição de representantes e alteração de taxas)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}LAUDO DE AVALIAÇÃO{{tuple_delimiter}}laudo de avaliação{{tuple_delimiter}}Documento técnico elaborado por empresa especializada para atribuir valor a ativos como imóveis rurais, necessário para integralização de cotas)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}REPRESENTANTE DOS COTISTAS{{tuple_delimiter}}representante dos cotistas{{tuple_delimiter}}Pessoa ou entidade eleita em assembleia para fiscalizar o fundo, emitir pareceres e representar os cotistas em questões estratégicas)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DISTRIBUIÇÃO DE COTAS{{tuple_delimiter}}distribuição de cotas{{tuple_delimiter}}Processo de oferta pública ou privada das cotas do fundo, que exige a entrega de laudo de avaliação e lâmina de informações básicas)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}INFORME MENSAL{{tuple_delimiter}}informe mensal{{tuple_delimiter}}Relatório obrigatório com informações financeiras, composição da carteira e indicadores do fundo, divulgado em até 15 dias após o mês de referência)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}LÂMINA DE INFORMAÇÕES BÁSICAS{{tuple_delimiter}}lâmina de informações básicas{{tuple_delimiter}}Resumo padronizado que apresenta as principais características da classe de cotas, obrigatória na distribuição ao público em geral)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}INFORME ANUAL{{tuple_delimiter}}informe anual{{tuple_delimiter}}Relatório consolidado com demonstrações contábeis, relatório dos representantes dos cotistas e dados operacionais do fundo, publicado até 90 dias após o fim do exercício)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}PRESTAÇÃO DE SERVIÇOS{{tuple_delimiter}}prestação de serviços{{tuple_delimiter}}Conjunto de funções contratadas pelo administrador e gestor, incluindo custódia, registro, avaliação, cobrança e consultoria)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}TAXA DE ADMINISTRAÇÃO{{tuple_delimiter}}taxa de administração{{tuple_delimiter}}Remuneração devida ao administrador fiduciário pelos serviços prestados ao fundo, expressa como percentual do patrimônio líquido)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}TAXA DE PERFORMANCE{{tuple_delimiter}}taxa de performance{{tuple_delimiter}}Remuneração adicional ao gestor baseada no desempenho da classe de cotas em relação a um indicador de referência do agronegócio)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}TAXA DE CUSTÓDIA{{tuple_delimiter}}taxa de custódia{{tuple_delimiter}}Encargo pelo serviço de guarda e controle dos ativos financeiros, valores mobiliários, CBIO e direitos creditórios do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DISTRIBUIÇÃO DE RENDIMENTOS{{tuple_delimiter}}distribuição de rendimentos{{tuple_delimiter}}Forma como os lucros e proventos da carteira de ativos são repassados ou reinvestidos para os cotistas, conforme definido no regulamento)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ATIVOS FINANCEIROS{{tuple_delimiter}}ativos financeiros{{tuple_delimiter}}Instrumentos de crédito, valores mobiliários e títulos relacionados ao setor do agronegócio que podem ser incluídos na carteira do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}TÍTULOS DE SECURITIZAÇÃO{{tuple_delimiter}}títulos de securitização{{tuple_delimiter}}Títulos lastreados em direitos creditórios do agronegócio ou em imóveis rurais, como CRA e CRI, que compõem o portfólio do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}PARTICIPAÇÃO SOCIETÁRIA{{tuple_delimiter}}participação societária{{tuple_delimiter}}Investimentos do fundo em companhias fechadas ou sociedades limitadas que atuam nas cadeias do agronegócio)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}OFERTA PÚBLICA{{tuple_delimiter}}oferta pública{{tuple_delimiter}}Distribuição de cotas realizada publicamente no mercado, sujeita a registro e regras específicas conforme a CVM)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}SISTEMA ELETRÔNICO DA CVM{{tuple_delimiter}}sistema eletrônico da CVM{{tuple_delimiter}}Plataforma digital da Comissão de Valores Mobiliários para envio e divulgação de documentos e relatórios regulatórios dos fundos)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}MERCADO ORGANIZADO{{tuple_delimiter}}mercado organizado{{tuple_delimiter}}Ambiente regulado onde as cotas dos FIAGRO podem ser negociadas, com regras operacionais específicas estabelecidas por entidades administradoras)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}ENTIDADE REGISTRADORA{{tuple_delimiter}}entidade registradora{{tuple_delimiter}}Instituição autorizada pelo Banco Central ou CVM para registrar direitos creditórios adquiridos pelo fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DEPOSITÁRIO CENTRAL{{tuple_delimiter}}depositário central{{tuple_delimiter}}Instituição responsável pelo depósito e custódia de ativos financeiros e valores mobiliários, quando registrados em nome do fundo)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}AVALIAÇÃO DE IMÓVEIS{{tuple_delimiter}}avaliação de imóveis{{tuple_delimiter}}Processo técnico de atribuição de valor a imóveis rurais a serem adquiridos ou integralizados no fundo, baseado em laudo de avaliação especializado)
+{{record_delimiter}}
+("entity"{{tuple_delimiter}}DIREITOS DE VOTO{{tuple_delimiter}}direitos de voto{{tuple_delimiter}}Faculdade dos cotistas de deliberarem nas assembleias do fundo, com restrições mínimas estabelecidas para fundos destinados ao público em geral)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}FIAGRO{{tuple_delimiter}}CLASSE DE COTAS{{tuple_delimiter}}Cada FIAGRO pode ter uma ou mais classes de cotas com políticas de investimento específicas e características próprias{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}FIAGRO{{tuple_delimiter}}POLÍTICA DE INVESTIMENTO{{tuple_delimiter}}A política de investimento define como o FIAGRO aplicará seus recursos, em quais ativos e com quais limites{{tuple_delimiter}}10)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}REGULAMENTO{{tuple_delimiter}}POLÍTICA DE INVESTIMENTO{{tuple_delimiter}}O regulamento deve detalhar a política de investimento, estabelecendo limites e critérios para os ativos do fundo{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}GESTOR{{tuple_delimiter}}POLÍTICA DE INVESTIMENTO{{tuple_delimiter}}O gestor é o responsável pela execução da política de investimento conforme definida no regulamento{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}ADMINISTRADOR FIDUCIÁRIO{{tuple_delimiter}}INFORME MENSAL{{tuple_delimiter}}O administrador fiduciário deve elaborar e divulgar o informe mensal com informações detalhadas do fundo{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}ADMINISTRADOR FIDUCIÁRIO{{tuple_delimiter}}INFORME ANUAL{{tuple_delimiter}}O administrador é responsável pela divulgação anual das demonstrações contábeis e relatório do fundo{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}ASSEMBLEIA DE COTISTAS{{tuple_delimiter}}REPRESENTANTE DOS COTISTAS{{tuple_delimiter}}A assembleia tem competência para eleger e destituir o representante dos cotistas do fundo{{tuple_delimiter}}8)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}LAUDO DE AVALIAÇÃO{{tuple_delimiter}}IMÓVEL RURAL{{tuple_delimiter}}A aquisição de imóvel rural pelo fundo depende de prévio laudo de avaliação por empresa especializada{{tuple_delimiter}}9)
+{{record_delimiter}}
+("relationship"{{tuple_delimiter}}CRÉDITOS DE CARBONO{{tuple_delimiter}}POLÍTICA DE INVESTIMENTO{{tuple_delimiter}}A política deve especificar critérios para aquisição, titularidade e certificação dos créditos de carbono do agronegócio{{tuple_delimiter}}9)
+{{completion_delimiter}}
